@@ -1,0 +1,22 @@
+
+version: '3.8'
+services:
+  backend:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - SECRET_KEY=1Xt5YfM4ZNuFdwp3OfVkwkhhQLagWKtt1234567890123456
+    volumes:
+      - ./backend:/app/backend
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    ports:
+      - "8501:8501"
+    depends_on:
+      - backend
+    environment:
+      - BACKEND_URL=http://backend:8000
