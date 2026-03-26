@@ -142,7 +142,7 @@ S = (Focus × 0.4) + (Energy × 0.3) + (Consistency × 0.3 × 10)
 ## 👨‍💻 **المطور**
 
 **Senior AI Solutions Architect**  
-[Perplexity AI] | [LinkedIn] | [Portfolio]
+[Abdulrahman AI] | [www.linkedin.com/in/abdualrhman-abdualmanam-80a826364] | [Portfolio]
 
 <div align="center">
   
