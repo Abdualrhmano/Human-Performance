@@ -151,30 +151,3 @@ S = (Focus × 0.4) + (Energy × 0.3) + (Consistency × 0.3 × 10)
 ![Footer](https://via.placeholder.com/1200x100/0f172a/ffffff?text=Production-Ready+AI+Performance+Engine+%7C+March+2026)
 
 </div>
-```
-
-***
-
-## 💡 **انسخ الكود ده في `README.md` في جذر المشروع**
-
-**هيبقى جاهز للـ Demo مع الـ Chairman في 30 ثانية!** 🎉
-
-**Badge Links (ضعها في مكانها):**
-```markdown
-[status-badge]: https://img.shields.io/badge/Status-Production%20Ready-00D084
-[docker-badge]: https://img.shields.io/badge/Docker-Compose-2496ED
-[fastapi-badge]: https://img.shields.io/badge/FastAPI-0.115-005571
-[streamlit-badge]: https://img.shields.io/badge/Streamlit-1.38-FE6F61
-```
-
-الاقتباسات:
-[1] كيفية كتابة ملف README.md احترافي لمشاريع GitHub | شرح عملي خطوة بخطوة بمثال واقعي https://www.youtube.com/watch?v=ATVJiw4JrUA
-[2] طريقة كتابة ملف "README" جيد لمشروع دورة برمجية؟ https://ae.linkedin.com/pulse/%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D9%85%D9%84%D9%81-readme-%D8%AC%D9%8A%D8%AF-%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%8A%D8%A9-ahmed-greynoon-t9jaf
-[3] Create a README File | Research Data Management https://ubc-library-rc.github.io/rdm/content/03_create_readme.html
-[4] What Is the Usual Structure of... https://realpython.com/readme-python-project/
-[5] Make a README https://www.makeareadme.com
-[6] شرح ملفات Markdown بالعربي | Github Readme files #markdown https://www.youtube.com/watch?v=nC-eFiwKmCQ
-[7] About the repository README file https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes
-[8] طريقة كتابة خطوات تشغيل المشروع على ملف readme - بايثون https://academy.hsoub.com/questions/23820-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D9%83%D8%AA%D8%A7%D8%A8%D8%A9-%D8%AE%D8%B7%D9%88%D8%A7%D8%AA-%D8%AA%D8%B4%D8%BA%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B9%D9%84%D9%89-%D9%85%D9%84%D9%81-readme/
-[9] How to Structure Your README File https://www.freecodecamp.org/news/how-to-structure-your-readme-file/
-[10] Writing good README files — How to document your ... https://coderefinery.github.io/documentation/writing-readme-files/
